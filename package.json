@@ -1,6 +1,6 @@
 {
   "name": "vidclaw",
-  "version": "0.1.30",
+  "version": "0.1.31",
   "description": "The OpenClaw Dashboard \ud83e\udd9e",
   "main": "src/index.ts",
   "scripts": {
